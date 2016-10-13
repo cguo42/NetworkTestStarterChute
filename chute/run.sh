@@ -11,7 +11,7 @@ while true; do
     #
     # NOT IMPLEMENTED
     #
-
+    ping 192.168.1.1 >> results.txt
     sleep 60
 done
 
