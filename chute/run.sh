@@ -11,7 +11,7 @@ while true; do
     #
     # NOT IMPLEMENTED
     #
-    ping 192.168.1.1 >> results.txt
+    ping 192.168.1.1 >> /usr/share/nginx/html/results.txt
     sleep 60
 done
 
